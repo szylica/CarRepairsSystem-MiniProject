@@ -12,19 +12,13 @@ Celem projektu jest stworzenie prostego systemu do zarządzania naprawami samoch
 - Zarządzanie harmonogramem przez pracowników
 - Przeglądanie historii napraw
 
-Projekt został zrealizowany w ramach nauki technologii Java oraz praktyki w tworzeniu aplikacji webowych.
+Projekt został zrealizowany w ramach nauki technologii Java oraz praktyki w tworzeniu warstw aplikacji.
 
 ## 🛠️ Technologie
 
 W projekcie wykorzystano następujące technologie:
 
 - **Java 17** – główny język programowania
-- **Spring Boot** – framework do tworzenia aplikacji webowych
-- **Spring MVC** – do obsługi żądań HTTP i routing
-- **Spring Data JPA** – do komunikacji z bazą danych
-- **Hibernate** – implementacja JPA
-- **Thymeleaf** – silnik szablonów do generowania widoków HTML
-- **H2 Database** – wbudowana baza danych do testów
 - **Maven** – system zarządzania zależnościami i budowania projektu
 - **Lombok** – redukcja kodu boilerplate
 
@@ -79,12 +73,7 @@ Aby uruchomić aplikację lokalnie:
 - Rejestracja i logowanie klientów
 - Przeglądanie dostępnych usług
 - Umawianie wizyt na naprawy
-- Zarządzanie harmonogramem przez pracowników
 - Przeglądanie historii napraw
-
-## 📷 Zrzuty ekranu
-
-*Tutaj możesz dodać zrzuty ekranu aplikacji, aby pokazać interfejs użytkownika.*
 
 ## 🤝 Współpraca
 
