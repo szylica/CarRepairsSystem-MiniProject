@@ -1,6 +1,6 @@
 # CarRepairsSystem-MiniProject
 
-**CarRepairsSystem-MiniProject** to aplikacja webowa stworzona w celu zarządzania warsztatem samochodowym. Umożliwia rejestrację klientów, przeglądanie dostępnych usług, umawianie wizyt oraz zarządzanie harmonogramem przez pracowników warsztatu.
+**CarRepairsSystem-MiniProject** to aplikacja konsolowa stworzona w celu zarządzania warsztatem samochodowym. Umożliwia rejestrację klientów, przeglądanie dostępnych usług oraz umawianiem wizyt.
 
 ## 🎯 Cel projektu
 
